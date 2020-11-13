@@ -39,3 +39,5 @@ ListViews do not inflate all items, they inflate however many can fit on a page 
 fillViewport = “true”
 fillViewport allows scrollView to extend it’s height equals to the full height of device screen’s height in the cases when the child of scroll view has less height.
 see this doc <a href"https://demonuts.com/android-fillviewport/" target="_blank">link</a>
+<br><br>
+<img src="./image_githubDoc/151116481946_navigationDrawer.png"></img>
